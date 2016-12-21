@@ -12,7 +12,7 @@ Se incluyen los siguientes proyectos implementados en Java:
 		-Binarios
 		-Binarios de búsqueda
 		-AVL
-		-Cúmulos (Heaps)
+	*Cúmulos (Heaps)
 	*Tarea 1 - Intersección de conjuntos
 	*Tarea 2 - Ordenamiento de películas
 	*Ejercicios tipo examen
